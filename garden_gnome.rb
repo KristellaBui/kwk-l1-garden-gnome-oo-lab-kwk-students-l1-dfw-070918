@@ -20,4 +20,3 @@ class GardenGnome   #make class
   end
   
 end
-  
